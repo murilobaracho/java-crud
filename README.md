@@ -6,7 +6,7 @@ Um sistema simples e direto de **CRUD** (Create, Read, Update, Delete) desenvolv
 
 
 *   **Linguagem:** Java 17+
-*   **Banco de Dados:** PostgreSQL 
+*   **Banco de Dados:** PostgreSQL / Neon
 
 ## 📋 Pré-requisitos
 
