@@ -4,12 +4,9 @@ Um sistema simples e direto de **CRUD** (Create, Read, Update, Delete) desenvolv
 
 ## 🚀 Tecnologias Utilizadas
 
-> **Nota:** Ajuste esta lista conforme as ferramentas reais do seu projeto.
 
 *   **Linguagem:** Java 17+
-*   **Framework:** Spring Boot *(se aplicável)*
-*   **Banco de Dados:** MySQL / PostgreSQL / H2 *(escolha o seu)*
-*   **Gerenciador de Dependências:** Maven / Gradle
+*   **Banco de Dados:** PostgreSQL 
 
 ## 📋 Pré-requisitos
 
